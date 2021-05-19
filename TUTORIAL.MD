@@ -1,5 +1,6 @@
 # 000 - HOW TO (NOT) GET STARTED
 ## NOT INSTRUCTIONS:
+- This tutorial is in the main branch
 - cd into tutor-app folder
 - `npm install` (npm i)
 - from there run `ng serve`
