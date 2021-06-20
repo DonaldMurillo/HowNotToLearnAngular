@@ -26,3 +26,5 @@ These previous packages install globally in your machine. They give you command 
 - Using npm (installed with node) in a temrinal install the npm angular cli package `npm install -g @angular/cli` (v12 will be needed). https://angular.io/cli
 - Create a folder in your documents to put your repositories in. Mine is called programming because I am very original
 - open the temrinal inside the folder (if you do not know how to do that please learn it you will need it A LOT) and  type `git clone https://github.com/DonaldMurillo/HowNotToLearnAngular.git`
+
+[Start Tutorial]( ./tutorial.md)
